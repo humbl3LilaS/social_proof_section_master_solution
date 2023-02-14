@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Git Hub](https://github.com/humbl3lalis/social_proof_section_master_solution.git)
+- Live Site URL: [Vercel](https://social-proof-section-master-solution-theta.vercel.app)
 
 ## My process
 
